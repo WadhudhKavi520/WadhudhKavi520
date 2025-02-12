@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Wadhudh Kavi and I'm an Electronics and Communication Engineering student, from India.</p>
+<p align="left">I am an Electronics and Communication Engineering student with a deep passion for embedded systems, hardware-software integration, and problem-solving. My journey has been shaped by hands-on experiences with cutting-edge technologies, from satellite systems at ISRO to defense innovations for DRDO.</p>
 
 ###
 
