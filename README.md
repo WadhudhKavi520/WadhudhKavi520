@@ -11,12 +11,18 @@
 ###
 
 <p align="left">
-  Passionate about embedded systems, hardware-software integration, and problem-solving.<br>
-  🌟 Interned at ISRO's U R Rao Satellite Centre, gaining hands-on experience in satellite systems, harness development, and connector matching.<br>
-  🛠 Led a team for the 'Gunshot Detection and Localization System' project at the Smart India Hackathon 2024, based on a problem statement given by DRDO, integrating embedded systems and machine learning.<br>
-  💡 Built multiple electronics projects, including an Arduino-based mobile phone, an IoT gas leakage detection system, and an obstacle detection system using ultrasonic sensors.<br>
-  🤖 Exploring AI applications in embedded systems and automation.<br>
-  🔧 Proficient in programming languages such as C, C++, and Java.<br>
+  🚀 During my internship at ISRO - U R Rao Satellite Centre, I worked with the Systems Integration Group, gaining hands-on experience in satellite subsystem assembly and testing. I quickly learned ISRO’s Harness Development System, worked on connector matching for the Oceansat-3A satellite, and developed a Python-based tool for verification processes, improving efficiency in satellite integration workflows.<br>
+
+🎯 I led the team for a Gunshot Detection, Localization, and Classification System as part of the DRDO-SIH 2024 project. The project involved implementing a direction of arrival (DoA) algorithm on ESP32 and developing a CNN-based model to classify different firearm sounds with 97% accuracy. Though in its early stages, the prototype demonstrated the feasibility of using embedded systems and machine learning for defense applications. Our team ranked 1st 🥇 among 220+ teams in our college's internal hackathon.<br>
+
+🔧 Beyond these experiences, I have built and prototyped multiple electronics projects, including:<br>
+✔️ Arduino-based Mobile Phone with GSM module and TFT display for real-time communication.<br>
+✔️ IoT-enabled Gas Leakage Detection System using ESP8266 for real-time safety monitoring.<br>
+✔️ Obstacle Detection System using Ultrasonic Sensor, designed to detect and alert about nearby objects using an Arduino-based setup.<br>
+
+🤖 I am also interested in AI and ML applications in electronics. I have explored AI-driven solutions for healthcare technology and product development, understanding the intersection of AI, embedded systems, and real-world problem-solving.<br>
+
+💡 Always eager to innovate, build, and learn, I thrive on challenges that push the boundaries of technology.<br>
 </p>
 
 ###
