@@ -46,3 +46,32 @@
 </div>
 
 ###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
+<div align="left">
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/wadhudh-kavi-398b74210/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <!-- LeetCode Button -->
+  <a href="https://leetcode.com/WadhudhKavi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <!-- Instagram Button -->
+  <a href="https://www.instagram.com/wadhudh_kavi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <!-- Mail Button -->
+  <a href="mailto:wadhudhkavi520@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" height="40" />
+  </a>
+</div>
